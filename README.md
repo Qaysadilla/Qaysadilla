@@ -7,8 +7,7 @@
 
 - <b>🔐 Password Cracker</b>  
 
-- <b>🎯 Honeypot</b>  
-
+- <b>🎯 <a href="https://github.com/Qaysadilla/honeypot-login-trap" target="_blank">Honeypot Login Trap</a></b> – Fake FTP server that logs unauthorized access attempts using Python sockets and logging
 - <b>📡 Network Sniffer</b>  
 
 - <b>🧠 File Encryption Tool</b>  
