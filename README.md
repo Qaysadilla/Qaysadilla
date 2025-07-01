@@ -41,4 +41,6 @@
 <br/><br/>
 
 [github]: https://github.com/Qaysadilla  
-[linkedin]: https://www.linkedin.com/in/qaysalhajyousef/
+[linkedin]: www.linkedin.com/in/qays-alhajyousef
+
+
